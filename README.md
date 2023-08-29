@@ -3,7 +3,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/baiaman-tumantaev-416878263/">
+  <a href="https://www.linkedin.com/in/baiaman-tumantaev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
   <a href="https://wa.me/+996706946757">
