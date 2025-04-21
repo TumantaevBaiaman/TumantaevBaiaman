@@ -25,6 +25,10 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 👨 I’m Baiaman (TumantaevBaiaman).
 - 😄 Pronouns: he/him/his.
 
+</br>
+
+</br>
+
 ## 🤝 Let's Connect! 
 
 I'm always excited to connect with fellow developers and tech enthusiasts! 
